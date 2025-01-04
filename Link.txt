@@ -1,0 +1,8 @@
+
+Master Procedural Maze & Dungeon Generation
+
+https://www.h3dlearn.com/course/master-procedural-maze-dungeon-generation
+
+Es un curso de pago por la instructora de Unity
+
+Procedural generation in game development lends itself to the algorithmic generation of unique computer-created environments and gameplay experiences. The power is in its ability to automatically develop game content on the fly, reducing the amount of work required by the game designer. However, a lot of preparation by the programmers and artists is necessary for such a strategy to be implemented.  A thorough understanding of the role that both sides of the game development coin (of technical/logic and art/design) play in procedural generation is key for a successful implementation. In this course, Penny and Mike bring a unique experience to both programmers and artists alike and combine their skills and many years of industry and academic knowledge, to bring you a holistic learning experience in which you will find content and invaluable mastery.
